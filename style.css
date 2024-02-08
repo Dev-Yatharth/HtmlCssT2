@@ -1,0 +1,13 @@
+.ibox{
+    background: aquamarine;
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid blue;
+    position: relative;
+    align-self: center;
+}
+video{
+    width: 1200px;
+    height: 700px;
+}
